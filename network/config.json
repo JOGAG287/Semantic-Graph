@@ -36,7 +36,7 @@
       "labelThreshold": 0,
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 20
+      "defaultLabelSize": 20,
       "edgeColor": "target"
     },
     "graphProperties": {
