@@ -33,6 +33,7 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
+      "labelHoverShadow": "node",
       "labelThreshold": 0,
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
