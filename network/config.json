@@ -36,6 +36,7 @@
       "labelHoverShadow": "node",
       "labelHoverColor":"node",
       "defaultLabelHoverColor": "#fdfefe",
+      "defaultNodeBorderColor": "#fdfefe",
       "labelThreshold": 0,
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
