@@ -8,13 +8,13 @@
     "text": ""
   },
   "text": {
-      "more": "Graph of sematic links between the competencies from the matrix ",
-      "intro": "",
+    "more": "Graph of sematic links between the competencies from the matrix ",
+    "intro": "",
     "title": "Network graph of the semantic links between competencies from the matrix "
   },
   "legend": {
-      "edgeLabel": "Links",
-      "colorLabel": "Families",
+    "edgeLabel": "Links",
+    "colorLabel": "Families",
     "nodeLabel": "Competencies"
   },
   "features": {
@@ -27,28 +27,28 @@
     "imageAttribute": false
   },
   "sigma": {
-      "drawingProperties": {
-        "defaultEdgeType": "curve",
-        "defaultHoverLabelBGColor": "#002147",
-        "defaultLabelBGColor": "#ddd",
-        "activeFontStyle": "bold",
-        "defaultLabelColor": "#000",
-        "labelThreshold": 10,
-        "defaultLabelHoverColor": "#fff",
-        "fontStyle": "bold",
-        "hoverFontStyle": "bold",
-        "defaultLabelSize": 14
-        "edgeColor": "target"
+     "drawingProperties": {
+     "defaultEdgeType": "curve",
+     "defaultHoverLabelBGColor": "#002147",
+     "defaultLabelBGColor": "#ddd",
+     "activeFontStyle": "bold",
+     "defaultLabelColor": "#000",
+     "labelThreshold": 10,
+     "defaultLabelHoverColor": "#fff",
+     "fontStyle": "bold",
+     "hoverFontStyle": "bold",
+     "defaultLabelSize": 14
+     "edgeColor": "target"
       },
-      "graphProperties": {
-        "maxEdgeSize": 1,
-        "minEdgeSize": 0.5,
-        "minNodeSize": 5,
-      "maxNodeSize": 75
+   "graphProperties": {
+     "maxEdgeSize": 1,
+     "minEdgeSize": 0.5,
+     "minNodeSize": 5,
+     "maxNodeSize": 75
     },
-    "mouseProperties": {
-      "maxRatio": 20,
-      "minRatio": 0.75
+   "mouseProperties": {
+     "maxRatio": 20,
+     "minRatio": 0.75
     }
   }
 }
