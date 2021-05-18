@@ -8,14 +8,14 @@
     "text": ""
   },
   "text": {
-    "more": "Test graph",
-    "intro": "Test graph",
-    "title": ""
+    "more": "Graphique de liens sématiques entre les compétences de la matrice",
+    "intro": "Ce graphique modélise les liens sémantiques entre les compétences de la matrice",
+    "title": "Modélisation des liens sémantiques entre les compétences"
   },
   "legend": {
     "edgeLabel": "Liens communs",
     "colorLabel": "Familles",
-    "nodeLabel": "CentralitÃ© commune"
+    "nodeLabel": "Compétence"
   },
   "features": {
     "search": true,
@@ -37,13 +37,13 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 18
     },
     "graphProperties": {
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 50
     },
     "mouseProperties": {
       "maxRatio": 20,
