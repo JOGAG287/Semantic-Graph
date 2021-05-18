@@ -8,14 +8,14 @@
     "text": ""
   },
   "text": {
-    "more": "Graphique de liens sématiques entre les compétences de la matrice",
-    "intro": "Ce graphique modélise les liens sémantiques entre les compétences de la matrice",
-    "title": "Modélisation des liens sémantiques entre les compétences"
+    "more": "Graph of sematic links between the competencies from the matrix ",
+    "intro": "",
+    "title": "Network graph of the semantic links between competencies from the matrix "
   },
   "legend": {
-    "edgeLabel": "Liens communs",
-    "colorLabel": "Familles",
-    "nodeLabel": "Compétence"
+    "edgeLabel": "Links",
+    "colorLabel": "Families",
+    "nodeLabel": "Competencies"
   },
   "features": {
     "search": true,
@@ -40,10 +40,10 @@
       "defaultLabelSize": 20
     },
     "graphProperties": {
-      "maxEdgeSize": 5,
-      "minEdgeSize": 1,
-      "minNodeSize": 10,
-      "maxNodeSize": 75
+      "maxEdgeSize": 1,
+      "minEdgeSize": 0.5,
+      "minNodeSize": 1,
+      "maxNodeSize": 25
     },
     "mouseProperties": {
       "maxRatio": 20,
