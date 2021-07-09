@@ -36,7 +36,7 @@
           "defaultLabelHoverColor": "#fff",
           "fontStyle": "bold",
           "hoverFontStyle": "bold",
-          "labelThreshold": 0,
+          "labelThreshold": 10,
           "fontStyle": "bold",
           "hoverFontStyle": "bold",
           "defaultLabelSize": 20,
