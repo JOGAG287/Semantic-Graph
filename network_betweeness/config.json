@@ -1,0 +1,57 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "Semantic graph based on cosine similarity matrix. The size of the node reflects the betweeness centrality (number of shortest paths from all vertices to all others that pass through a node).",
+    "intro": "Semantic graph of all competencies",
+    "title": ""
+  },
+  "legend": {
+       "edgeLabel": "Links",
+       "colorLabel": "Families",
+       "nodeLabel": "Competency"
+     },
+     "features": {
+       "search": true,
+       "groupSelectorAttribute": "Id",
+       "hoverBehavior": "dim"
+     },
+     "informationPanel": {
+       "groupByEdgeDirection": false,
+       "imageAttribute": false
+     },
+     "sigma": {
+       "drawingProperties": {
+         "defaultEdgeType": "curve",
+         "defaultHoverLabelBGColor": "#002147",
+         "defaultLabelBGColor": "#ddd",
+         "activeFontStyle": "bold",
+         "defaultLabelColor": "#000",
+         "labelThreshold": 10,
+         "defaultLabelHoverColor": "#fff",
+         "fontStyle": "bold",
+         "hoverFontStyle": "bold",
+         "labelThreshold": 0,
+         "fontStyle": "bold",
+         "hoverFontStyle": "bold",
+         "defaultLabelSize": 20,
+         "edgeColor": "target"
+       },
+       "graphProperties": {
+         "maxEdgeSize": 0.5,
+         "minEdgeSize": 0.2,
+         "minNodeSize": 5,
+         "maxNodeSize": 50
+       },
+       "mouseProperties": {
+         "maxRatio": 20,
+         "minRatio": 0.75
+       }
+     }
+}
