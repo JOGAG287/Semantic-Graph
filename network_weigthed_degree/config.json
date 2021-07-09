@@ -12,46 +12,46 @@
     "intro": "Semantic graph of all competencies",
     "title": ""
   },
- "legend": {
-       "edgeLabel": "Links",
-       "colorLabel": "Families",
-       "nodeLabel": "Competency"
-     },
-     "features": {
-       "search": true,
-       "groupSelectorAttribute": "Id",
-       "hoverBehavior": "dim"
-     },
-     "informationPanel": {
-       "groupByEdgeDirection": false,
-       "imageAttribute": false
-     },
-     "sigma": {
-       "drawingProperties": {
-         "defaultEdgeType": "curve",
-         "defaultHoverLabelBGColor": "#002147",
-         "defaultLabelBGColor": "#ddd",
-         "activeFontStyle": "bold",
-         "defaultLabelColor": "#000",
-         "labelThreshold": 10,
-         "defaultLabelHoverColor": "#fff",
-         "fontStyle": "bold",
-         "hoverFontStyle": "bold",
-         "labelThreshold": 0,
-         "fontStyle": "bold",
-         "hoverFontStyle": "bold",
-         "defaultLabelSize": 20,
-         "edgeColor": "target"
-       },
-       "graphProperties": {
-         "maxEdgeSize": 0.5,
-         "minEdgeSize": 0.2,
-         "minNodeSize": 5,
-         "maxNodeSize": 50
-       },
-       "mouseProperties": {
-         "maxRatio": 20,
-         "minRatio": 0.75
-       }
-     }
+  "legend": {
+        "edgeLabel": "Links",
+        "colorLabel": "Families",
+        "nodeLabel": "Competency"
+      },
+      "features": {
+        "search": true,
+        "groupSelectorAttribute": "Id",
+        "hoverBehavior": "dim"
+      },
+      "informationPanel": {
+        "groupByEdgeDirection": false,
+        "imageAttribute": false
+      },
+      "sigma": {
+        "drawingProperties": {
+          "defaultEdgeType": "curve",
+          "defaultHoverLabelBGColor": "#002147",
+          "defaultLabelBGColor": "#ddd",
+          "activeFontStyle": "bold",
+          "defaultLabelColor": "#000",
+          "labelThreshold": 10,
+          "defaultLabelHoverColor": "#fff",
+          "fontStyle": "bold",
+          "hoverFontStyle": "bold",
+          "labelThreshold": 0,
+          "fontStyle": "bold",
+          "hoverFontStyle": "bold",
+          "defaultLabelSize": 20,
+          "edgeColor": "target"
+        },
+        "graphProperties": {
+          "maxEdgeSize": 0.5,
+          "minEdgeSize": 0.2,
+          "minNodeSize": 5,
+          "maxNodeSize": 50
+        },
+        "mouseProperties": {
+          "maxRatio": 20,
+          "minRatio": 0.75
+        }
+      }
 }
