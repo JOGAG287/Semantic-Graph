@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "Semantic graph based on cosine similarity matrix. The size of the node reflect the weighted degree (i.e., the number of edge for a node ponderated by the weight of each edge).",
-    "intro": "Semantic graph of all competencies",
+    "intro": "Semantic graph of retained competencies",
     "title": ""
   },
   "legend": {
